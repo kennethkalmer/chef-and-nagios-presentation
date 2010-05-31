@@ -310,11 +310,14 @@
 * Nagios is powerful, enabled by Ruby
 * Learning curve is worth the results
 * This presentation barely touches on what is possible
+* Again, this presentation assumes familiarity with Chef & Nagios
 
-!SLIDE bullets
+!SLIDE bullets smaller
 
 # Thank you
 
-* Kenneth Kalmer
 * [@kennethkalmer](http://twitter.com/kennethkalmer)
 * <http://opensourcery.co.za>
+* Rate this talk on [SpeakerRate](http://speakerrate.com/talks/3354-nagios-chef)
+* <http://chef-and-nagios.heroku.com>
+* <http://github.com/kennethkalmer/chef-and-nagios-presentation>
